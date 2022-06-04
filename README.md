@@ -7,6 +7,8 @@
 
 - 🌱 I’m currently learning **.Net Full-stack Developer**
 
+- 📝 Education : **Profesional Development and BI 9 months Track Information Technology Institute (ITI) - Alexandria branch Ministry of Communication and Information Technology (MCIT) - Professional Training Program**
+
 - 📫 How to reach me **mohamed.ismail.ibrahiim97@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
