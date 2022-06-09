@@ -5,7 +5,7 @@
 
 
 
-- 🌱 I’m currently learning **.Net Full-stack Developer**
+- 🌱 I’m currently **.Net Full-stack Developer**
 
 - 📝 Education : **Profesional Development and BI 9 months Track Information Technology Institute (ITI)         - Alexandria branch
 
